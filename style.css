@@ -1,0 +1,57 @@
+/* CSS code writtent to align with HTML file */
+/* CSS for wrapper id*/
+#wrapper {
+    position: absolute;
+    border: 1px solid blue;
+    left: 30%;
+    top: 20%;
+    width: 500px;
+}
+
+#quiztime {
+    float: right;
+}
+
+/* CSS for quizquestions id */
+#quizquestions {
+    margin: 20px;
+}
+
+/* CSS for quiztime id */
+#startTime {
+    background-color: bisque;
+    padding: 15px 32px;
+    color: black;
+    margin-left: 33%;
+    font-size: 20px;
+}
+
+/* CSS for Back button id */
+#Back {
+    background-color: blue;
+    padding: 10x;
+    color: black;
+    position: relative;
+    font-size: 20px;
+    top: 30%;
+    left: 55%;
+    width: auto;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* CSS for Reset button id */
+#reset {
+    background-color: blue;
+    padding: 10px;
+    color: black;
+    font-size: 20px;
+    top: 30%;
+    right: 5%;
+    text-align: center;
+}
+
+/* CSS for button  */
+button {
+    border-radius: 7px;
+}
